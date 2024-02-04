@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.ddb43876.css",
+    "main.js": "/myPortfolio/static/js/main.864d5b1d.js",
+    "static/media/newskabutar.png": "/myPortfolio/static/media/newskabutar.22ddf15698875a2b0767.png",
+    "static/media/mymaploc.png": "/myPortfolio/static/media/mymaploc.0f14e1685920e920be1c.png",
+    "static/media/weatherguide-portfolio.png": "/myPortfolio/static/media/weatherguide-portfolio.4df61ad50fa913b2c7e3.png",
+    "static/media/tagit.png": "/myPortfolio/static/media/tagit.be884447c32e724b10ea.png",
+    "static/media/worldmap.jpeg": "/myPortfolio/static/media/worldmap.1cd8b3e0d6e07aa90ec1.jpeg",
+    "static/media/stars.png": "/myPortfolio/static/media/stars.f3f983b0a849414cf0ec.png",
+    "static/media/decyber-portfolio.png": "/myPortfolio/static/media/decyber-portfolio.f4b1eb925a8ab5bc812b.png",
+    "static/media/realMapEarth.jpeg": "/myPortfolio/static/media/realMapEarth.5c2929298c436e2cb5c2.jpeg",
+    "static/media/projects_background.png": "/myPortfolio/static/media/projects_background.7660d3ad811e5243392d.png",
+    "static/media/satellite.png": "/myPortfolio/static/media/satellite.fa2a4251498a99d14d21.png",
+    "static/media/mathsAndCode.png": "/myPortfolio/static/media/mathsAndCode.d73dd1c68ceabd6a8a62.png",
+    "static/media/notesman.png": "/myPortfolio/static/media/notesman.2d4a1d370d546b23eb8a.png",
+    "static/media/textutils.png": "/myPortfolio/static/media/textutils.de5a23af94a2fd82618b.png",
+    "static/media/meInMetaverse.png": "/myPortfolio/static/media/meInMetaverse.d6cce6a63fa4a93510a7.png",
+    "static/media/settings.svg": "/myPortfolio/static/media/settings.1a38bbca559a1aea8ce8cd1c25a86903.svg",
+    "static/media/terminal-icon.svg": "/myPortfolio/static/media/terminal-icon.74f63949499cdee8505763f813136e64.svg",
+    "static/media/test-svgrepo-com.svg": "/myPortfolio/static/media/test-svgrepo-com.6e75cc55e8ab9bf2807bcb22d90c8cae.svg",
+    "static/media/Vector 1.svg": "/myPortfolio/static/media/Vector 1.b36cfe48e36cec0479ef356d3b22449b.svg",
+    "static/media/safari.svg": "/myPortfolio/static/media/safari.98e386d39aad16475752c9f681b1e790.svg",
+    "static/media/leetcode.svg": "/myPortfolio/static/media/leetcode.7951fc74c4520a91c54fc246c2a22654.svg",
+    "static/media/linkedin.svg": "/myPortfolio/static/media/linkedin.5a6d7a766e5216d5eff7.svg",
+    "static/media/codingninjas-svgrepo-com.svg": "/myPortfolio/static/media/codingninjas-svgrepo-com.5e2e03493aaf82708ea409798c1fe6c7.svg",
+    "static/media/chrome.svg": "/myPortfolio/static/media/chrome.0880f789ac33c2741c87ae8dab8fa0ab.svg",
+    "static/media/github.svg": "/myPortfolio/static/media/github.787e38b791e881cf9bdb.svg",
+    "index.html": "/myPortfolio/index.html",
+    "static/media/mail_app.svg": "/myPortfolio/static/media/mail_app.f6122940ca1d55212fc8f170c80a7665.svg",
+    "static/media/vscode.svg": "/myPortfolio/static/media/vscode.feab1f2b5e068c7e1ab02acc59a58f61.svg",
+    "main.ddb43876.css.map": "/myPortfolio/static/css/main.ddb43876.css.map",
+    "main.864d5b1d.js.map": "/myPortfolio/static/js/main.864d5b1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddb43876.css",
+    "static/js/main.864d5b1d.js"
+  ]
+}
